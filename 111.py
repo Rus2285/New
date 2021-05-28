@@ -1,3 +1,6 @@
-a=4
+a = 4
+b = 55
 a **= 16
-print(a)
+b %= 15
+
+print(a,b)
